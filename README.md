@@ -3,5 +3,5 @@
 ## m3u文件链接：
 - https://github.com/nrjycyd/CMCC-IPTV-JS/blob/master/CMCC-IPTV-JS.m3u
 - https://cdn.jsdelivr.net/gh/nrjycyd/CMCC-IPTV-JS@master/CMCC-IPTV-JS.m3u
-- https://ghp.ci/https://raw.githubusercontent.com/nrjycyd/CMCC-IPTV-JS/master/CMCC-IPTV-JS.m3u
+- https://gh.hnr1.xyz/https://raw.githubusercontent.com/nrjycyd/CMCC-IPTV-JS/master/CMCC-IPTV-JS.m3u
 
